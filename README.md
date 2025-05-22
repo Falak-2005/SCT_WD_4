@@ -2,11 +2,11 @@
 TO-DO-WEB APP
 
  It is a to-do web app with the following features
- date
- time
- update 
- delete
- task completed
+ date, 
+ time, 
+ update, 
+ delete, 
+ task completed.
 
 HTML: Structure with input fields for task name, date, time, and buttons for adding tasks. A list container to show tasks.
  
